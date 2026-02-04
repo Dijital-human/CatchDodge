@@ -91,25 +91,61 @@
 </head>
 <body>
     <div class="container">
-        <h1>Wing Power: Adventure</h1>
+        <h1>Catch & Dodge: Adventure</h1>
         <p class="subtitle">Support</p>
         
         <div class="section">
             <h2>📱 About the Game</h2>
-            <p>Wing Power: Adventure - A unique Flappy Bird experience with a unique Power-Up system, 9 different bird types, 6 different obstacle types, and a particle effects system.</p>
-            <p>Wing Power: Adventure - A unique Flappy Bird experience with Power-Up system, 9 different bird types, 6 different obstacle types, and particle effect system.</p>
+            <p>Catch & Dodge: Adventure - Catch & Dodge - Endless Arcade Adventure!
+                Get ready for an exciting arcade experience! Catch & Dodge is a fast-paced action game that will test your reflexes and keep you entertained for hours.
+                GAME FEATURES:
+                • Multilingual Support: The application is fully localized and available in 4 languages: English, Russian, Turkish, and Azerbaijani.
+                • Simple and intuitive controls - just drag to move your character
+                • Endless gameplay with increasing difficulty as you progress
+                • Collect coins to boost your score and unlock achievements
+                • Avoid rocks to stay alive and maintain your combo
+                • Power-ups to help you along the way (slow motion, shield, multiplier)
+                • Daily challenges for extra rewards and bonuses
+                • Combo system for massive scores and high rankings
+                • Global leaderboard to compete with players worldwide
+                • Multiple achievements to unlock and collect
+                • Beautiful graphics and smooth 60fps animations
+                • Offline gameplay - play anywhere, anytime
+                • Haptic feedback for immersive experience
+                • Sound effects and background music
+                CHALLENGE YOURSELF:
+                • Beat your high score and set new records
+                • Complete daily missions for special rewards
+                • Unlock all achievements and become a master
+                • Climb the global leaderboard and compete with friends
+                • Master the combo system for maximum points
+                • Survive as long as possible in endless mode
+                PREMIUM FEATURES:
+                • Remove all advertisements for uninterrupted gameplay
+                • Support the developers and help improve the game
+                • Enjoy ad-free experience with monthly or yearly subscription
+                HOW TO PLAY:
+                Drag your finger left or right to move your character
+                Collect coins to increase your score
+                Avoid rocks to stay alive
+                Use power-ups strategically for better results
+                Complete daily challenges for bonus rewards
+                Compete on the global leaderboard
+                SUPPORT & FEEDBACK:
+                There is a dedicated Support section within the application. From there, you can contact us directly to express any issues or suggestions. We value your feedback and will be happy to help you as quickly as possible!
+                Download now and start your endless arcade adventure! Challenge yourself, beat your friends, and become the ultimate Catch & Dodge champion!</p>
+            
         </div>
         
         <div class="section">
-            <h2>❓ Frequently Asked Questions/ FAQ</h2>
+           <h2>❓ Frequently Asked Questions/ Frequently Asked Questions</h2>
             <p><strong>A: How do I play?</strong></p>
-            <p>B: Tap the screen to make the bird go up. Pass through pipes and achieve high scores!</p>
+            <p>B: You can play the game by moving your finger on the screen.</p>
             
-            <p><strong>C: How do I collect power-ups?</strong></p>
-            <p>D: Power-ups appear between pipes. Touch them to collect!</p>
+            <p><strong>C: How do I collect boosters?</strong></p>
+            <p>D: Collect points by moving them from top to bottom within the game and enjoy the game</p>
             
-            <p><strong>E: How do I unlock birds?</strong></p>
-            <p>F: Unlock new birds by achieving scores. Each bird has its own unlock requirement</p>
+            
         </div>
         
         <div class="section">
